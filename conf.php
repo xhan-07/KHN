@@ -17,8 +17,8 @@ $conf['db_name'] = "users";
 // Email configuration
 $conf['mail_type'] = "smtp"; // Options: smtp, sendmail, mail
 $conf['smtp_host'] = "smtp.gmail.com";
-$conf['smtp_user'] = "your_email@gmail.com";
-$conf['smtp_pass'] = "your_app_password";
+$conf['smtp_user'] = "Sumama.Khan@strathmore.edu";
+$conf['smtp_pass'] = "uayy lkzj okhy rars";
 $conf['smtp_port'] = 465;
 $conf['smtp_secure'] = "ssl";
 
