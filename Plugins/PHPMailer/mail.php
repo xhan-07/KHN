@@ -28,8 +28,8 @@ try {
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'Greetings from BBIT DevOps';
-    $mail->Body    = 'Welcome to <b>BBIT DevOps</b>! This is a new semester of learning and growth.';
+    $mail->Subject = 'Greetings from Postgres';
+    $mail->Body    = 'Welcome to <b>Postgres</b>! This is a new semester of learning and growth.';
 
     $mail->send();
     echo 'Message has been sent';
