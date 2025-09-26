@@ -11,8 +11,8 @@ $conf['language'] = "en";
 $conf['db_type'] = "pdo";
 $conf['db_host'] = "localhost";
 $conf['db_user'] = "root";
-$conf['db_pass'] = "";
-$conf['db_name'] = "dol";
+$conf['db_pass'] = "root";
+$conf['db_name'] = "users";
 
 // Email configuration
 $conf['mail_type'] = "smtp"; // Options: smtp, sendmail, mail
